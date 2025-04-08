@@ -15,4 +15,6 @@
 
         <project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660" remote="Ballsszz" revision="master" />
 
+        --recursive
+        
 </manifest>
