@@ -2,7 +2,7 @@
 
 <manifest>
         <remote name="Ballsszz"
-        fetch="https://github.com/MrHanzz00001" />
+        fetch="https://github.com/BalsszZoldyck" />
       
         <project path="device/asus/X00TD" name="android_device_asus_X00TD-4.19" remote="Ballsszz" revision="15.0" />  
 
