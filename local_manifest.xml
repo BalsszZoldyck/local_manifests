@@ -3,9 +3,6 @@
 <manifest>
         <remote name="Balsz"
         fetch="https://github.com/BalsszZoldyck" />
-        
-                <!-- Remove Packages-->
-        <remove-project name="SkylineUi-Reborn/platfrom_build_soong" />
       
         <project path="device/asus/X00TD" name="android_device_asus_X00TD-4.19" remote="Balsz" revision="15.0" />  
 
