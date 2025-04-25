@@ -13,4 +13,6 @@
 
         <project path="platfrom_build_soong/fsgen" name="prebuilt_etc_modules_gen.go" remote="SkylineUi-Reborn" revision="fifteen" />
 
+        <project path="platfrom_build_soong/fsgen" name="filesystem_creator_test.go" remote="SkylineUi-Reborn" revision="fifteen" />
+        
 </manifest>
