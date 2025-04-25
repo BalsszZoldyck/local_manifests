@@ -11,8 +11,11 @@
 
         <project path="device/asus/sdm660-common" name="android_device_asus_sdm660-common-4.19" remote="Balsz" revision="15.0" />
 
-        <project path="platfrom_build_soong/fsgen" name="prebuilt_etc_modules_gen.go" remote="SkylineUi-Reborn" revision="fifteen" />
-
-        <project path="platfrom_build_soong/fsgen" name="filesystem_creator_test.go" remote="SkylineUi-Reborn" revision="fifteen" />
+        <remove-project name="platfrom_build_soong" />
+        
+        <project path="build/soong" name="platform_build_soong" remote="Balsz">
+        <linkfile src="root.bp" dest="Android.bp" />
+         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+           </project>
         
 </manifest>
