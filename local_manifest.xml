@@ -8,7 +8,7 @@
 
         <project path="device/asus/sdm660-common" name="android_device_asus_sdm660-common-4.19" remote="Balsz" revision="15.0" />
 
-        <remove-project name="platfrom_build_soong" />
+        <remove-project name="platform_build_soong" />
         
         <project path="build/soong" name="platform_build_soong" remote="Balsz">
         <linkfile src="root.bp" dest="Android.bp" />
