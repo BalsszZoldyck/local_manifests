@@ -10,7 +10,7 @@
 
         <remove-project name="platform_build_soong" revision="fifteen" />
         
-        <project path="build/soong" name="platform_build_soong" remote="Balsz" revision="fifteen" />
+        <project path="build/soong" name="platform_build_soong" remote="Balsz" />
         <linkfile src="root.bp" dest="Android.bp" />
          <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
            </project>
