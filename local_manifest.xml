@@ -8,10 +8,4 @@
 
         <project path="device/asus/sdm660-common" name="android_device_asus_sdm660-common-4.19" remote="Balsz" revision="15.0" />
 
-        <remove-project name="platform_build_soong" revision="fifteen" />
-        
-        <project path="build/soong" name="platform_build_soong" remote="Balsz" revision="fifteen" />
-        <linkfile src="root.bp" dest="Android.bp" />
-         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-           
 </manifest>
