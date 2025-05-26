@@ -4,8 +4,8 @@
         <remote name="Balsz"
         fetch="https://github.com/BalsszZoldyck" />
       
-        <project path="device/asus/X00TD" name="android_device_asus_X00TD-4.19" remote="Balsz" revision="15.0" />  
+        <project path="device/asus/X00TD" name="android_device_asus_X00TD-4.19" remote="Balsz" revision="los-22.2" />  
 
-        <project path="device/asus/sdm660-common" name="android_device_asus_sdm660-common-4.19" remote="Balsz" revision="15.0" />
+        <project path="device/asus/sdm660-common" name="android_device_asus_sdm660-common-4.19" remote="Balsz" revision="los-22.2" />
 
 </manifest>
