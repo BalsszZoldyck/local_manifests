@@ -8,4 +8,6 @@
         <!-- Sync trees -->
         <project path="device/asus/X00T" name="device_asus_X00T" remote="Balsz" revision="crdroid-11" />  
         
+        <project path="android/vendor/asus" name="android_vendor_asus" remote="Balsz" revision="11" />  
+        
 </manifest>
