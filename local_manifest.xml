@@ -6,6 +6,6 @@
         fetch="https://github.com/BalsszZoldyck" />
 
         <!-- Sync trees -->
-        <project path="device/asus/X00T" name="device_asus_X00T" remote="Balsz" revision="los-13" />  
+        <project path="device/asus/X00T" name="device_asus_X00T" remote="Balsz" revision="crdroid-11" />  
         
 </manifest>
