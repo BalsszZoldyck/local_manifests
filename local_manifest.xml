@@ -10,6 +10,6 @@
         
         <project path="vendor/asus" name="android_vendor_asus" remote="Balsz" revision="11" />  
         
-        <project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660-4.19" remote="Balsz" revision="stable" />
+        <project path="kernel/asus/sdm636" name="android_kernel_asus_sdm636" remote="Balsz" revision="tom/hmp" />
         
 </manifest>
