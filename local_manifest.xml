@@ -4,8 +4,6 @@
         <remote name="Balsz"
         fetch="https://github.com/BalsszZoldyck" />
       
-        <project path="device/asus/X00TD" name="device_asus_X00TD-4.4" remote="Balsz" revision="havoc" />  
-
-        <project path="device/asus/sdm660-common" name="device_asus_sdm660-common-4.4" remote="Balsz" revision="havoc" />
+        <project path="device/asus/X00TD" name="device_asus_X00TD-4.4" remote="Balsz" revision="havoc" /> 
 
 </manifest>
