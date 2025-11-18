@@ -4,6 +4,6 @@
         <remote name="Balsz"
         fetch="https://github.com/BalsszZoldyck" />
       
-        <project path="device/asus/X00TD" name="android_device_asus_X00TD-4.19" remote="Balsz" revision="pos" />  
+        <project path="device/asus/X00TD" name="android_device_asus_X00TD-4.19" remote="Balsz" revision="statix" />  
 
 </manifest>
